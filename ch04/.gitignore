@@ -1,0 +1,6 @@
+todoapi
+todoweb
+tododb
+todonginx
+registry-data/*
+!registry-data/.gitkeep
